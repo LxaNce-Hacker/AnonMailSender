@@ -2,7 +2,7 @@
 This tool is used to send mail anonmously.
 ### THIS TOOL IS CREATED FOR EDUCATIONAL PURPOSE, DON'T MISUSE IT.
 <p align="center">
-  <img src="AnonMailSender.jpg">
+  <img src=".img/AnonMailSender.jpg">
 </p>
 
 ## Installing Process 👇
@@ -14,5 +14,5 @@ This tool is used to send mail anonmously.
 ## Workflow 👇
 <br>
 <p align="center">
-  <img src="AnonMailSender.jpg.jpg">
+  <img src=".img/AnonMailSender.jpg.jpg">
 </p>
